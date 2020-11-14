@@ -1,2 +1,2 @@
-# controllable_evc_code
-This is the code for controllable EVC framework for seen and unseen emotion generation.
+# Seen and Unseen emotional style transfer for voice conversion with a new emotional speech dataset
+This is the code for "Seen and Unseen emotional style transfer for voice conversion with a new emotional speech dataset"
