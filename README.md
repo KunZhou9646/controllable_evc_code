@@ -1,6 +1,6 @@
 # Seen and Unseen emotional style transfer for voice conversion with a new emotional speech dataset
 
-** This is an implementation of the paper "Seen and unseen emotional style transfer for voice conversion with a new emotional speech dataset" (Submitted to ICASSP 2021) ** 
+This is an implementation of the paper "Seen and unseen emotional style transfer for voice conversion with a new emotional speech dataset" (Submitted to ICASSP 2021)
 (https://arxiv.org/abs/2010.14794)
  
 
